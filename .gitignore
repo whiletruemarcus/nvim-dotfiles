@@ -1,0 +1,19 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+# Ignorera mappen där Lazy laddar ner plugins
+/lazy/
+
+# Ignorera sessions, backups, etc.
+*.swp
+*.swo
+*~
+
+# OS-specifika filer
+.DS_Store
+Thumbs.db
