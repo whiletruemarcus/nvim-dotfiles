@@ -1,0 +1,6 @@
+| Genväg    | Funktion                     |
+| :-------- | :--------------------------- |
+| <leader>e | Öppna filutforskare          |
+| <leader>ff| Hitta filer (Telescope)      |
+| <leader>sg| Grep (sök text) i projektet  |
+| <C-/>     | Toggle Terminal              |
